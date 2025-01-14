@@ -1,5 +1,6 @@
 # ROS2 Helper Scripts
 
+```bash
           O
          _|_
    ,_.-_' _ '_-._,
@@ -11,6 +12,7 @@
       \       /
       _\__|__/_
  jgs `""""`""""`
+```
 
 A collection of helpful bash scripts for ROS2 and related tools installation and setup. This repository serves as a personal toolkit to streamline common installation processes and make future setups easier.
 
