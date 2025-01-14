@@ -15,7 +15,7 @@ A collection of helpful bash scripts for ROS2 and related tools installation and
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/ros2_helper.git
+git clone git https://github.com/Kawai-Senpai/ros2_helper.git
 ```
 
 2. Make the scripts executable:
